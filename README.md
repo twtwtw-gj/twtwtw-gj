@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=twtwtw-gj&count_private=true&theme=dracula)
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=twtwtw-gj&layout=compact)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=twtwtw-gj&layout=compact&langs_count=10)
 
 <!--
 **twtwtw-gj/twtwtw-gj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
